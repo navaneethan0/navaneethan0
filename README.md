@@ -1,97 +1,70 @@
 <div align="center">
 
-# 👋 Hi, I'm Irfan Ahamed N  
-**Full Stack Developer | Programming Enthusiast | Problem Solver**  
-Passionate about coding, developing impactful applications, and solving complex problems.
+# 👋 Hi, I'm Navaneetha Krishnan S P  
+**AI & Data Science Student | Full Stack Developer | Problem Solver**  
+Passionate about coding, building intelligent systems, and developing user-friendly applications.
 
-📧 **irfan02ahamed@gmail.com** &nbsp;| &nbsp;📱 **+91 63749 13272**
+📧 **navaneethakrishnansp01@gmail.com** &nbsp;|&nbsp; 📱 **+91 73734 15120**
 
 </div>
 
 ---
 
 ## 💡 About Me  
-I'm an **IT student** specializing in **Full Stack Development**, with strong skills in **C** and **Java**. I have experience in building dynamic applications and a passion for programming, problem-solving, and innovative solutions.
+I'm a **B.Tech Artificial Intelligence and Data Science student** at **Bannari Amman Institute of Technology (2022-2026)**.  
+I have experience in **C**, **Java**, and **Python**, with an interest in **Full Stack Development**, **UI/UX Design**, and **AI-based solutions**.  
+I enjoy exploring new technologies and turning ideas into impactful projects.
 
 ---
 
 ## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-IrfanAhamed-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/irfan-ahamed-n-ba036925a/) &nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-IRFAN02AHAMED-black?style=for-the-badge&logo=github)](https://github.com/IRFAN02AHAMED) &nbsp;&nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-Irfan-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/IRFAN_AHAMED_N/) &nbsp;&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=netlify)](https://p-for-portfolio.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-NavaneethaKrishnan-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/navaneethan1029) &nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-Navaneethan1029-black?style=for-the-badge&logo=github)](https://github.com/Navaneethan1029) &nbsp;&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-NAVANEETHAN0_0-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/NAVANEETHAN0_0/)
 
 ---
 
 ## 🛠️ Skills  
-### **Programming Languages:**  
+
+### **Programming Languages**  
 ![C](https://img.shields.io/badge/-C-%2300599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-
-
-### **Frontend:**  
-![HTML](https://img.shields.io/badge/-HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/-React.js-%2361DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-
-### **Tools & Technologies:**  
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
+### **Tools & Platforms**  
+![Qt Creator](https://img.shields.io/badge/-Qt%20Creator-%2341CD52?style=for-the-badge&logo=qt&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-%235C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/-Notion-%23000000?style=for-the-badge&logo=notion&logoColor=white)
-![LeetCode](https://img.shields.io/badge/-LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+
+### **Soft Skills**  
+💬 Collaboration & Teamwork | ⚡ Adaptability | 🚀 Quick Learning  
+
+### **Languages Known**  
+English  |  Tamil  
 
 ---
-### 📊 LeetCode Stats  
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/IRFAN_AHAMED_N?theme=dark&font=Fira+Code&ext=heatmap" alt="LeetCode Stats"/>
-</div>
 
 ## 📁 Projects  
-### 🔹 **Finance Dashboard** *(MERN Stack)*  
-A dynamic dashboard to visualize and track financial data in real-time. Built with a focus on secure authentication and data visualization.  
-**Key Features:** User authentication, dynamic charting, RESTful API integration, responsive UI.
 
-### 🔹 **Bit LinkedIn App** *(MERN Stack, Ongoing)*  
-A LinkedIn-inspired networking platform that supports user profiles, connections, and real-time notifications.  
-**Key Features:** User authentication, feed system, notification alerts, responsive and mobile-friendly design.
-
-### 🔹 **Student Result Management System** *(HTML , CSS ,JS PHP, MySQL)*  
-A web-based platform for managing student results with automated grading and secure data handling.  
-**Key Features:** Admin and student login, data validation, downloadable results, comprehensive result analysis.
+### 🔹 **College Enquiry Chatbot** *(Python + Flask)*  
+A chatbot that uses **TF-IDF** and **Logistic Regression** for intent classification and **NLP** for query handling.  
+**Key Features:** Smart query response, intent detection, and interactive UI.
 
 ---
 
-## 📜 Papers & Publications  
-- **" Exam Result Management System
- Presented a paper on an automated exam result management
- system with role-based access and centralized data analysis
- to improve efficiency"** 
+### 🔹 **Hostel Room Booking Management System** *(HTML | CSS | JS | PHP | MySQL)*  
+A web-based solution for automated room allocation and management.  
+**Key Features:** Role-based login, secure data handling, and improved efficiency over Google Forms.
 
 ---
 
-## 🏆 Certifications  
-- **JavaScript Basics** - Scaler Academy  
-- **Python Basics** - UDEMY  
-- **SQL Basics** - Simplilearn  
+### 🔹 **Virtual Brightness Controller** *(OpenCV + Python)*  
+A real-time hand-gesture-controlled brightness system built using OpenCV.  
+**Key Features:** Contact-free control, gesture recognition, and adaptive brightness.
 
 ---
 
-## 🎓 Education  
-- **B.Tech in Information Technology** - Bannari Amman Institute of Technology *(2022 - 2026)* - CGPA: **8.15**  
-- **HSC** - Vijayalakshmi Matric Higher Sec School *(2021 - 2022)* - Percentage: **92.5%**  
-- **SSLC** - Vijayalakshmi Matric Higher Sec School *(2019 - 2020)* - Percentage: **77.6%**
+## 🏆 Achievements  
 
----
-
-## 📩 Get in Touch  
-[![Email](https://img.shields.io/badge/Email-irfan02ahamed@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:irfan02ahamed@gmail.com) &nbsp;&nbsp;
-[![Phone](https://img.shields.io/badge/Phone-+91%2063749%2013272-blue?style=for-the-badge&logo=phone&logoColor=white)](tel:+916374913272)
-
----
-
-
-</div>
+- 🥇 **Completed a 24-hour Hackathon** at *Coimbatore Institute of Technology*, delivering an innovative collaborative solution under time constraints.  
+- ♟ **Zonal-**
