@@ -67,4 +67,45 @@ A real-time hand-gesture-controlled brightness system built using OpenCV.
 ## 🏆 Achievements  
 
 - 🥇 **Completed a 24-hour Hackathon** at *Coimbatore Institute of Technology*, delivering an innovative collaborative solution under time constraints.  
-- ♟ **Zonal-**
+- ♟ **Zonal-level Chess & Throwball Player**, with strong interest in cricket.  
+
+---
+
+## 🧠 Areas of Interest  
+- Software Development  
+- Frontend Development *(Lovable AI, Bolt AI)*  
+- UI/UX Design  
+- Testing  
+
+---
+
+## 📜 Paper & Project Presentation  
+- Presented **“Hostel Room Booking Management System”**, a web-based platform improving efficiency in college room allocation.  
+
+---
+
+## 🎓 Education  
+| Degree | Institution | Year | Performance |
+| :------ | :----------- | :---: | :----------: |
+| **B.Tech – AI & DS** | Bannari Amman Institute of Technology | 2022 – 2026 | **CGPA 7.19 (upto 6th sem)** |
+| **HSC** | Reliance Matric Higher Sec School | 2021 – 2022 | **77.5 %** |
+| **SSLC** | Sri Vasavi Matric Higher Sec School | 2019 – 2020 | **74.4 %** |
+
+---
+
+## 🎵 Hobbies  
+🎯 Cricket 🎧 Listening to Music 📖 Reading Books  
+
+---
+
+## 📩 Get in Touch  
+[![Email](https://img.shields.io/badge/Email-navaneethakrishnansp01@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:navaneethakrishnansp01@gmail.com) &nbsp;&nbsp;
+[![Phone](https://img.shields.io/badge/Phone-+91%2073734%2015120-blue?style=for-the-badge&logo=phone&logoColor=white)](tel:+917373415120)
+
+---
+
+<div align="center">
+  
+✨ *“Strive to build applications that simplify life and inspire innovation.”* ✨  
+
+</div>
