@@ -19,7 +19,7 @@ I enjoy exploring new technologies and turning ideas into impactful projects.
 
 ## 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-NavaneethaKrishnan-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/navaneethan1029) &nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Navaneethan1029-black?style=for-the-badge&logo=github)](https://github.com/Navaneethan1029) &nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-navaneethan0-black?style=for-the-badge&logo=github)](https://github.com/navaneethan0) &nbsp;&nbsp;
 [![LeetCode](https://img.shields.io/badge/LeetCode-NAVANEETHAN0_0-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/NAVANEETHAN0_0/)
 
 ---
