@@ -4,7 +4,7 @@
 **AI & Data Science Student | Full Stack Developer | Problem Solver**  
 Passionate about coding, building intelligent systems, and developing user-friendly applications.
 
-📧 **navaneethakrishnansp01@gmail.com** &nbsp;|&nbsp; 📱 **+91 73734 15120**
+📧 **navaneethakrishnansp01@gmail.com** || **navaneethakrishnan.ad22@bitsathy.ac.in** &nbsp;|&nbsp; 📱 **+91 73734 15120**
 
 </div>
 
